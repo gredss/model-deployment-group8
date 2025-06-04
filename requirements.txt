@@ -1,7 +1,31 @@
+# Core UI and Data Libraries
 streamlit==1.35.0
 pandas==2.2.2
 numpy==1.26.4
+
+# Machine Learning
 scikit-learn==1.4.2
-scipy==1.13.1
-joblib==1.4.2
-python_version = "3.11"
+
+# Text Processing
+scipy==1.13.0
+
+# Optional: for saving/loading models
+joblib==1.4.0
+
+# Visualization (used by Streamlit)
+altair==5.5.0
+pydeck==0.9.1
+
+# Web requests if needed
+requests==2.32.3
+
+# Utilities
+watchdog==6.0.0
+tqdm==4.66.4
+
+# Streamlit performance/resource caching
+protobuf==4.25.3
+
+# Compatibility dependencies
+python-dateutil==2.9.0.post0
+typing-extensions==4.14.0
