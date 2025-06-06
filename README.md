@@ -140,7 +140,9 @@ We deploy the app publicly using: **Streamlit Community Cloud**. The app is acce
 ```
 https://netflix-hybrid-recommender.streamlit.app/
 ```
+
 [Or click here!](https://netflix-hybrid-recommender.streamlit.app/)
+
 ---
 
 ## 📈 Output Format
